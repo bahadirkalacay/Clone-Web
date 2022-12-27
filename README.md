@@ -10,6 +10,7 @@ Demo Link : https://youtube-clone-omega-two.vercel.app/
 - [Typescript](https://www.npmjs.com/package/typescript) - TypeScript is a language for application-scale JavaScript.
 - [Vite](https://www.npmjs.com/package/vite) - Next Generation Frontend Tooling.
 - [Styled component](https://www.npmjs.com/package/styled-components) - Visual primitives for the component age.
+- [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js.
 
 ## Installation
 
