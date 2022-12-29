@@ -112,7 +112,7 @@ a {
     height: 45vh !important;
   }
   .search-bar {
-    width: 75%;
+    width: 80%;
   }
 }
 .video-play-list {
@@ -132,5 +132,14 @@ a {
   );
   position: absolute;
   z-index: 10;
+}
+@media screen and (max-width: 500px) {
+  .icon-button{
+    display: none !important;
+  }
+  .search-bar{
+    height: 2.3em;
+    
+  }
 }
 
