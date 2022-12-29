@@ -37,7 +37,7 @@ export const SearchBar: FC<Props> = (props) => {
         value={searchRequest}
         onChange={(e) => setSearchRequest(e.target.value)}
       />
-      <IconButton type="submit" sx={{ color: "red", padding: "10px" }}>
+      <IconButton className="icon-button" type="submit" sx={{ color: "red", padding: "10px" }}>
         <Search />
       </IconButton>
     </Paper>
